@@ -76,21 +76,6 @@ The Multi-Threaded Poker Simulator is a highly performant, object-oriented poker
 - **Version Control**: Git
 - **Methodology**: Agile development with iterative sprints
 
-## Screenshots
-
-Main Menu
-![PokerMainMenu](https://github.com/user-attachments/assets/fcac30c5-c036-42eb-b127-d0842d15c4e3)
-
-Game Display
-![PokerGame](https://github.com/user-attachments/assets/0b460b17-e793-4aee-8713-9211b39957ae)
-
-Settings
-![PokerSettings](https://github.com/user-attachments/assets/b74594f6-4441-4beb-9efe-f99aef177947)
-
-Player Stats
-![PokerStats](https://github.com/user-attachments/assets/c5d90093-2bed-4791-8fc8-0767c815e273)
-
-
 ## Contributors
 - **Sean Clayton**
 - **Ivan Wong**
